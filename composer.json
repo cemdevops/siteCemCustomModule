@@ -1,0 +1,12 @@
+{
+    "name": "danielmme/valida-email",
+    "description": "módulo customizado para o website do CEM",
+    "type": "drupal",
+    "authors": [
+        {
+            "name": "DanielMM",
+            "email": "medeiros.danielm@gmail.com"
+        }
+    ],
+    "require": {}
+}
